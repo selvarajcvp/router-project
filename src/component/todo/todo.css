@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  background-image: linear-gradient(rgb(209, 210, 223),rgb(209, 197, 24));
+  min-height: 100vh;
+}
+
+
+.Button{
+  background-color: rgb(20, 216, 183);
+}
+.Button1{
+  background-color: rgba(197, 129, 39, 0.418);
+}
+.Buttons{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+table, thead,tr,td,th,tbody{
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 5px 15px;
+}
+.table{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}

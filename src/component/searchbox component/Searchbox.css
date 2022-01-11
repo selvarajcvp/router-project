@@ -1,0 +1,8 @@
+.box{
+    width: 1000px;
+    border: 15px solid blue;
+    padding: 50px;
+    margin: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(168, 154, 142);
+}

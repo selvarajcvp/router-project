@@ -1,0 +1,7 @@
+.dev {
+    position:fixed;
+  display:flow-root;
+  justify-content: space-evenly;
+  width: 100%;
+  font-style: italic;
+  }

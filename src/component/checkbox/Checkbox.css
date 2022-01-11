@@ -1,0 +1,10 @@
+.Container{
+    background-image: linear-gradient(rgb(235, 135, 235),rgb(143, 125, 125));
+    height: 65vh;
+    
+     
+}
+.result{
+     color: rgb(206, 31, 31);
+     background-color: lightcoral;
+}
